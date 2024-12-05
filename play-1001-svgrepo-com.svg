@@ -1,0 +1,7 @@
+<svg class="play-icon" width="24px" height="24px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+    <!-- Circular Spotify green background -->
+    <circle cx="12" cy="12" r="12" fill="#1DB954" />
+    
+    <!-- Stretched Play icon (black) -->
+    <polygon points="8 6 8 18 16 12" fill="black" />
+</svg>
